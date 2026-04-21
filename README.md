@@ -4,6 +4,8 @@ Includes two connectors for IconFactory's excellent Tapestry app:
 * **Trump's Truth:** Follow posts made by POTUS on Truth Social. No textra work necessary. Install the connector, and add the feed.
 
 ## Nitter Release Notes
+### Version 1.1.1
+* **NEW:** In addition to reposts, replies are also indicated as such.
 ### Version 1.1
 * 🐞 **FIXED:** When an X post contains only text, the X post's Twitter Card is not longer embedded, duplicating the content and showing a closeup of the poster's X avatar.
 * ✅ **IMPROVED:** Video embeds display more consistently.
