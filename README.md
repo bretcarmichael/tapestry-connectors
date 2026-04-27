@@ -13,3 +13,16 @@ Includes two connectors for IconFactory's excellent Tapestry app:
 * ✅ **NEW:** Reposts show the original author's name, handle and avatar (cached).
 ### Version 1.0
 * Initial release.
+
+## Trump's Truth Release Notes
+## Version 1.1
+* Inline video playback with thumbnail preview
+* Image attachments (single and multi-image posts)
+* Link preview cards with Open Graph data
+* Re-Truth detection for both quote-inline and h-card RT formats
+* Profile avatar embedded as base64 (bypasses CDN hotlink restrictions)
+* Media URL caching for fast subsequent loads
+* Empty media shard items correctly suppressed
+* Purple default feed color
+## Version 1.1
+* Initial release.
