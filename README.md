@@ -4,6 +4,8 @@ Includes two connectors for IconFactory's excellent Tapestry app:
 * **Trump's Truth:** Follow posts made by POTUS on Truth Social. No textra work necessary. Install the connector, and add the feed.
 
 ## Nitter Release Notes
+### Version 1.2
+* **NEW:** Added support for Xcancel and other Nitter instances.
 ### Version 1.1.1
 * **NEW:** In addition to reposts, replies are also indicated as such.
 ### Version 1.1
@@ -24,5 +26,5 @@ Includes two connectors for IconFactory's excellent Tapestry app:
 * Media URL caching for fast subsequent loads
 * Empty media shard items correctly suppressed
 * Purple default feed color
-## Version 1.1
+## Version 1.0
 * Initial release.
