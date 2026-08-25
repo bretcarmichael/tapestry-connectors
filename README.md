@@ -5,7 +5,7 @@ Includes two connectors for IconFactory's excellent Tapestry app:
 
 ## Nitter Release Notes
 ### Version 1.2
-* **NEW:** Added support for Xcancel and other Nitter instances.
+* **NEW:** Added support for XCancel and other Nitter instances.
 ### Version 1.1.1
 * **NEW:** In addition to reposts, replies are also indicated as such.
 ### Version 1.1
